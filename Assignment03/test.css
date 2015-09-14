@@ -1,0 +1,41 @@
+
+
+body{
+	background-color:#DCDCDC;
+	padding: 6px 30px;
+}
+
+h1{ font-family: sans-serif;}
+
+.content{
+	border: 2px dotted purple;
+	background-color:#F8F8FF;
+	margin: 0px 60px 12px 60px;
+}
+
+.content:hover{
+	cursor:pointer;
+}
+
+.story_content{
+	padding: 15px;
+}
+
+.key_content{
+	padding-left:15px;
+}
+
+
+#kanye_image{
+	height:200px;
+	width:150px;
+}
+
+.key_story_1:hover{
+	background-color: lightblue;
+}
+
+.key_story_2:hover{
+	background-color: red;
+}
+
